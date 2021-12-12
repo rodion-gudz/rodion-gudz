@@ -1,5 +1,5 @@
-## 👋 Hi, I’m lavender
-### 15 y.o. Python / Kotlin / C++ Coder
+## 👋 Hi, I’m Rodion
+### 16 y.o. dev from Russia
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2020%20mins-blue)
