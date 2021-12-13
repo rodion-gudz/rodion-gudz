@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m Rodion
-### 16 y.o. dev from Russia
+- #### 👀 I’m interested in Python Development
+- #### 🌱 I’m currently learning Python and Kotlin
+- #### 📫 How to reach me : [Email](me@lavn.ml), [Telegram](t.me/fast_geek)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fast-geek&layout=compact&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue)
