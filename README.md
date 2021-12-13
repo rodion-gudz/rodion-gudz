@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m Rodion
 ### 16 y.o. dev from Russia
 
+![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fast-geek&layout=compact&theme=react)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue)
 
@@ -27,8 +30,3 @@ Mac                      12 hrs 18 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fast-geek&layout=compact&theme=react)
-
