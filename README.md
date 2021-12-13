@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Rodion
 - #### 👀 I’m interested in Python Development
 - #### 🌱 I’m currently learning Python and Kotlin
-- #### 📫 How to reach me : [Email](me@lavn.ml), [Telegram](t.me/fast_geek)
+- #### 📫 How to reach me : [Email](mailto:me@lavn.ml), [Telegram](t.me/fast_geek)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
 
