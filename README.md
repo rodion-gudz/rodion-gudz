@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Rodion
-- #### 👀 I’m interested in Python Development
+- #### 👀 I’m interested in Telegram bot's and desktop applications development
 - #### 🌱 I’m currently learning Python and Kotlin
 - #### 📫 How to reach me : [Email](mailto:me@lavn.ml), [Telegram](https://t.me/fast_geek)
 
