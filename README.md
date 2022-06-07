@@ -3,7 +3,7 @@
 - #### 🌱 I’m currently learning Python and Kotlin
 - #### 📫 How to reach me : [Email](mailto:me@lavn.ml), [Telegram](https://t.me/fast_geek)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=react&hide=issues&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=fast-geek&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact)
 
 
 <!--START_SECTION:waka-->
