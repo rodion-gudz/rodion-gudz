@@ -11,13 +11,13 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
