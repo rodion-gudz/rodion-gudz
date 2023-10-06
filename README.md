@@ -1,9 +1,10 @@
-## 👋 Hi, I’m Rodion
-- #### 👀 I’m interested in Telegram bots and desktop applications development
-- #### 🌱 I’m currently learning Python and Kotlin
-- #### 📫 How to reach me : [Email](mailto:me@lavn.ml), [Telegram](https://t.me/rodion_gudz)
+# Rodion Gudz
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rodion-gudz&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact)
+### CV – [RodionGudz-CV.pdf](https://github.com/rodion-gudz/rodion-gudz/files/12832647/RodionGudz-CV.pdf)
+### Telegram – [@rodion_gudz](https://t.me/rodion_gudz)
+
+
+<img width="300" alt="image" src="https://github.com/rodion-gudz/rodion-gudz/assets/67208948/ca1bebe0-6f31-4741-a633-2bb06e532e30">
 
 
 <!--START_SECTION:waka-->
