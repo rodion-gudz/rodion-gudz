@@ -6,7 +6,7 @@ Backend developer at 🟥 **Positive Technologies** since Jun 2023
 
   
 ## Useful links
-- **CV** – [RodionGudz-CV.pdf](https://github.com/rodion-gudz/rodion-gudz/files/12832647/RodionGudz-CV.pdf)
+- **CV** – [RodionGudz-CV.pdf](https://github.com/rodion-gudz/rodion-gudz/files/12843067/RodionGudz-CV.pdf)
 - **Telegram** – [@rodion_gudz](https://t.me/rodion_gudz)
 
 ## WakaTime
