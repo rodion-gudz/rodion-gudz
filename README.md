@@ -6,5 +6,5 @@ Backend developer at 🟥 **Positive Technologies** since Jun 2023
 
   
 ## Useful links
-- **CV** – [RodionGudz-CV.pdf](https://github.com/rodion-gudz/rodion-gudz/files/13399657/RodionGudz-CV.pdf)
+- **CV** – [rgudz.com](https://rxresu.me/rodion-gudz/resume)
 - **Telegram** – [@rodion_gudz](https://t.me/rodion_gudz)
